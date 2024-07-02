@@ -8,12 +8,9 @@ https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Images/img1.JPG <br /
 
 ## Graph Algorithms
 Refer the link - https://neo4j.com/docs/graph-data-science/current/algorithms/ <br />
-Graph algorithms are used to compute metrics for graphs, nodes, or relationships.< br/>
-
+Graph algorithms are used to compute metrics for graphs, nodes, or relationships. < br/>
 They can provide insights on relevant entities in the graph (centralities, ranking), or inherent structures like communities (community-detection, graph-partitioning, clustering).
-
 Many graph algorithms are iterative approaches that frequently traverse the graph for the computation using random walks, breadth-first or depth-first searches, or pattern matching.
-
 Due to the exponential growth of possible paths with increasing distance, many of the approaches also have high algorithmic complexity.
 
 Fortunately, optimized algorithms exist that utilize certain structures of the graph, memoize already explored parts, and parallelize operations. Whenever possible, we’ve applied these optimizations.
