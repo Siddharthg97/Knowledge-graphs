@@ -6,6 +6,7 @@ A knowledge graph is made up of three main components: nodes, edges, and labels.
 https://www.ibm.com/topics/knowledge-graph  <br />
 https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Images/img1.JPG <br />https://neo4j.com/blog/what-is-knowledge-graph/ <br />
 
-##Graph Algorithms
+## Graph Algorithms
+Refer the link - https://neo4j.com/docs/graph-data-science/current/algorithms/ <br />
 
 
