@@ -6,6 +6,18 @@ A knowledge graph is made up of three main components: nodes, edges, and labels.
 https://www.ibm.com/topics/knowledge-graph  <br />
 https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Images/img1.JPG <br />https://neo4j.com/blog/what-is-knowledge-graph/ <br />
 
+## Present application of KG
+There are a number of popular, consumer-facing knowledge graphs, which are setting user expectations for search systems across enterprises. Some of these knowledge graphs include:<br />
+
+1)DBPedia and Wikidata are two different knowledge graphs for data on Wikipedia.org. DBPedia is comprised of data from the infoboxes of Wikipedia while Wikidata focuses on secondary and tertiary objects. Both typically publish in a RDF format.  <br />
+2)Google Knowledge Graph is represented through Google Search Engine Results Pages (SERPs), serving information based on what people search. This knowledge graph is comprised of over 500 million objects, sourcing data from Freebase, Wikipedia, the CIA World Factbook, and more. <br />
+However, knowledge graphs also have applications in other industries, such as:
+
+3)Retail: Knowledge graphs have been for up-sell and cross-sell strategies, recommending products based on individual purchase behavior and popular purchase trends across demographic groups. <br />
+Entertainment: Knowledge graphs are also leveraged for artificial intelligence (AI) based recommendation engines for content platforms, like Netflix, SEO, or social media. Based on click and other online engagement behaviors, these providers recommend new content for users to read or watch.<br />
+4)Finance: This technology has also been used for know-your-customer (KYC) and anti-money laundering initiatives within the finance industry. They assist in financial crime prevention and investigation, allowing banking institutions to understand the flow of money across their clientele and identify noncompliant customers.<br />
+5)Healthcare: Knowledge graphs are also benefiting the healthcare industry by organizing and categorizing relationships within medical research. This information assists providers by validating diagnoses and identifying treatment plans based on individual needs. 
+
 ## Graph Algorithms using NEo4j library
 Refer the link - https://neo4j.com/docs/graph-data-science/current/algorithms/ <br />
 Graph algorithms are used to compute metrics for graphs, nodes, or relationships. < br/>
