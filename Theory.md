@@ -35,7 +35,7 @@ https://neo4j.com/docs/graph-data-science/current/machine-learning/machine-learn
 ## Development of Knowledge graphs in python & their purpose
 Refer link for KG python development- https://lopezyse.medium.com/knowledge-graphs-from-scratch-with-python-f3c2a05914cc <br />
 For purpose we use - <br />
-Next, we create a NetworkX graph (G) to represent the KG. Each row in the DataFrame (df) corresponds to a triple (head, relation, tail) in the KG. The add_edge function adds edges between the head and tail entities, with the relation as a label.<br />
+Next, we create a NetworkX graph (G) to represent the KG. Each row in the DataFrame (df) corresponds to a **triple (head, relation, tail)** in the KG. The add_edge function adds edges between the head and tail entities, with the relation as a label.<br />
 refer link - https://lopezyse.medium.com/knowledge-graphs-from-scratch-with-python-f3c2a05914cc
 
 ### Purpose
